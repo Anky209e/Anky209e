@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate ML developer,Full-Stack web developer,Cloud Practitioner and a student.</h3>
 
-<img align="right" src="https://media1.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=790b7611b0cea9a78e1c6cf1cdbe68614d0340ed1179848e&rid=giphy.gif&ct=g">
+<img align="right"  width="400" src="https://media1.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=790b7611b0cea9a78e1c6cf1cdbe68614d0340ed1179848e&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anky209e&label=Profile%20views&color=0e75b6&style=flat" alt="anky209e" /> </p>
 
