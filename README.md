@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as ML engineer Intern @ **Velozity Global Solutions**
 - 🔭 A site Created by me and my <a href="https://github.com/AshuAhlawat">Friend</a> for all of our projects <a href="https://modelsmith.info">ModeLsmith</a>
 
-<img align="right"  width="400" src="https://media1.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=790b7611b0cea9a78e1c6cf1cdbe68614d0340ed1179848e&rid=giphy.gif&ct=g">
+<img align="right"  width="400" src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif">
 
 - 🌱 I’m currently learning **NLP,AWS CCP**
 
