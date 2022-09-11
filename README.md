@@ -10,6 +10,8 @@
 
 > All of my projects are available at [Github](https://github.com/Anky209e)
 
+<img style="float:left;" src="https://i.kym-cdn.com/photos/images/newsfeed/001/191/035/135.png"></img>
+
 >  A personal notes taking static site using jekyll [BlogSmith](https://anky209e.github.io/)
 
 > Ask me about **ML,AI,Python,Cloud,Linux**
