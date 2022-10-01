@@ -1,9 +1,7 @@
-# Welcome, I'm Ankit Kumar
+# Heyyyy, Its Ankit
 ## *A passionate ML developer,Full-Stack web developer,Cloud Practitioner and a student.*
 
 [![@anky's Holopin board](https://holopin.io/api/user/board?user=anky)](https://holopin.io/@anky)
-
-
 
 > I’m currently working as ML engineer Intern @ **Velozity Global Solutions**
 
@@ -15,11 +13,7 @@
 
 > Ask me about **ML,AI,Python,Cloud,Linux**
 
-
-
 > Know about my skills [Linkedin](https://www.linkedin.com/in/ankit-kumar-1693431ba/)
-
-
 
 
 ## **Skills & Tools**
