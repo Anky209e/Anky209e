@@ -3,7 +3,7 @@
 
 [![@anky's Holopin board](https://holopin.io/api/user/board?user=anky)](https://holopin.io/@anky)
 
-> I’m currently working as ML engineer Intern @ **Velozity Global Solutions**
+> I’m currently working as ML engineer and Web developer**
 
 > A Webapp Created by me and my [Friend](https://github.com/AshuAhlawat) for all of  our ML projects [ModeLsmith](https://modelsmith.info)
 
