@@ -18,7 +18,7 @@
 
 ## **Skills & Tools**
 
-```Python```,```C```,```Ruby```,```Machine Learning```,```Pytorch```,```Tensorflow```,```Data Analysis```,```Web Development```,```Django```,```Flask```,```MongoDB```,```Image Processing```,```Web Automation```,```Web Scraping```,```Docker```,```Linux```,```Jekyll```,```rest_framework```,```javascript```
+```Python```,```C```,```Ruby```,```Machine Learning```,```Reinforcement Learning```,```Pytorch```,```Tensorflow```,```Data Analysis```,```Web Development```,```Django```,```Flask```,```MongoDB```,```Image Processing```,```Web Automation```,```Web Scraping```,```Docker```,```Linux```,```Jekyll```,```rest_framework```,```javascript```
 
 ## **Cloud Platforms**
 ```AWS```,```GCP```
