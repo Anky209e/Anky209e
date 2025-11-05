@@ -1,11 +1,9 @@
-# Ankit Kumar
-## *A passionate ML developer,Full-Stack web developer,Cloud Practitioner and a student.*
+# Hi,I am  Ankit Kumar
+## *A passionate Software Engineer with expertise in backend development, AI, and ML. I like to build stuff.*
 
 [![@anky's Holopin board](https://holopin.io/api/user/board?user=anky)](https://holopin.io/@anky)
 
-> I’m currently working as ML engineer and Web developer**
-
-> A Webapp Created by me and my [Friend](https://github.com/AshuAhlawat) for all of  our ML projects [ModeLsmith](https://modelsmith.info)
+> Check out my [Portfolio](https://anky209e.netlify.app)
 
 > All of my projects are available at [Github](https://github.com/Anky209e)
 
@@ -18,7 +16,10 @@
 
 ## **Skills & Tools**
 
+````
+
 ```Python```,```C```,```Ruby```,```Machine Learning```,```Reinforcement Learning```,```Pytorch```,```Tensorflow```,```Data Analysis```,```Web Development```,```Django```,```Flask```,```MongoDB```,```Image Processing```,```Web Automation```,```Web Scraping```,```Docker```,```Linux```,```Jekyll```,```rest_framework```,```javascript```
+
 
 ## **Cloud Platforms**
 ```AWS```,```GCP```
