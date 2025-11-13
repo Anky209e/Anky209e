@@ -1,32 +1,53 @@
-# Hi,I am Ankit Kumar
-## *A passionate Software Engineer with expertise in backend development, AI, and ML.I like to build cool stuff.*
-
-[![@anky's Holopin board](https://holopin.io/api/user/board?user=anky)](https://holopin.io/@anky)
-
-> Check out my [Portfolio](https://anky209e.netlify.app)
-
-> Here is [Modelsmith](https://modelsmith.app/) a Django based webapp hosting custom multiple ML,DL and NLP models.
-
->  A personal notes taking static site using jekyll [BlogSmith](https://anky209e.github.io/)
-
-> Ask me about **ML,AI,Python,Cloud,Linux**
-
-> Know about my skills [Linkedin](https://www.linkedin.com/in/ankit-kumar-1693431ba/)
+```
+       /\
+      /**\
+     /****\
+     |----|
+     |    |   Ankit Kumar
+     |____|   Software Engineer | ML | Backend
+     /_||_\
 
 
-## **Skills & Tools**
+anky209e@github 
+───────────────────────────────────────────────
+OS: Arch Linux (Hyprland)
+Role: Software Engineer
+Field: Backend Development / AI / Machine Learning
+Editor: Neovim / VS Code
+Location: India
+───────────────────────────────────────────────
 
-```Python```,```C```,```Ruby```,```Machine Learning```,```Reinforcement Learning```,```Pytorch```,```Tensorflow```,```Data Analysis```,```Web Development```,```Django```,```Flask```,```MongoDB```,```Image Processing```,```Web Automation```,```Web Scraping```,```Docker```,```Linux```,```Jekyll```,```rest_framework```,```javascript```,```Godot```
+About:
+  I build software that thinks, learns, and evolves — just like its creator.
+  Passionate about building AI and RL systems,
+  scalable backends, and Linux-native developer tools.
+  I like writing clean, efficient, and functional code.
 
-## **Cloud Platforms**
-```AWS```,```GCP```
+Projects:
+  • ModelSmith        – Django webapp hosting multiple ML/DL/NLP models
+  • BlogSmith         – Personal notes site built with Jekyll
+  • Multilingual RAG  – LangChain + FAISS powered retrieval system
+  • ISRO Internship   – Satellite telemetry data analysis and Reinforcement Learning
+  • Hyprland Tools    – TUI habit tracker, session saver, productivity dashboard
 
-## **Certifications**
-- [Python for Data Science by NPTEL-IITM](https://internalapp.nptel.ac.in/NOC/NOC22/SEM1/Ecertificates/106/noc22-cs32/Course/NPTEL22CS32S33350967NPTEL2201060492.jpg)
+───────────────────────────────────────────────
+Skills:
+  Languages:    Python, C, Ruby, JavaScript
+  Frameworks:   Django, Flask, FastAPI, Celery
+  AI/ML:        PyTorch, TensorFlow, LangChain, RL, Transformers
+  Databases:    PostgreSQL, MongoDB
+  Tools:        Docker, Redis, REST APIs
+  Cloud/OS:     AWS, GCP, Linux
+───────────────────────────────────────────────
 
-- [Reinforcement Learning by NPTEL-IITM](https://internalapp.nptel.ac.in/NOC/NOC22/SEM1/Ecertificates/106/noc22-cs34/Course/NPTEL22CS34S1332098402136713.jpg)
+Certifications:
+  - Python for Data Science – NPTEL, IIT Madras  
+  - Reinforcement Learning – NPTEL, IIT Madras
+───────────────────────────────────────────────
 
-## **Contacts**
-- **Email** : nasaankit01@gmail.com
-- **Linkedin** : [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-1693431ba/)
-
+Contact:
+  Email:    nasaankit01@gmail.com
+  LinkedIn: linkedin.com/in/anky209e/
+  Website:  anky209e.netlify.app
+───────────────────────────────────────────────
+```
