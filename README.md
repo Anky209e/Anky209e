@@ -1,5 +1,4 @@
 ```
-## Happy new Year :)
 
        /\
       /**\
